@@ -12,4 +12,6 @@ This worked is shared under the License Creative Common Attribution-ShareAlike 4
 
  <img src="by-sa.png" alt="By-Sa" class="center">
 
-# The Story 
+# The Battery Module
+
+<img src="ModuleView.jpg" alt="Module" class="center">
