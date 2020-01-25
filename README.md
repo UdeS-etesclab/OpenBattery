@@ -10,4 +10,6 @@ We intent to provide here a modular mechanical structure for a rapid-prototyping
 # License
 This worked is shared under the License Creative Common Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Please share your work and contribute to this Open-Battery Project
 
+ <img src="by-sa.png" alt="By-Sa" class="center">
+
 # The Story 
