@@ -14,4 +14,4 @@ This worked is shared under the License Creative Common Attribution-ShareAlike 4
 
 # The Battery Module
 
-<img src="ModuleView.JPG" alt="Module" class="center">
+<img src="Module_EMUS.png" alt="Module" class="center">
