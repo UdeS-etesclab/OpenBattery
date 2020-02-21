@@ -1,4 +1,4 @@
-# OpenBattery Project
+<img src="OpenBattery_Project_Logo.png" alt="Module" class="center">
 
 University of Sherbrooke has been working on Lithium-ion batteries since 2008 through research projects, capstone projects and ectra-curricular teams. In 2016, a modular, scalable, low-cost, easy to manufacture and affordable design was developped by the Electric Motorcycle Team EMUS. Under the supervision of Professor Joao Pedro Trovao of the e-TESC Laboratory, the mechanical design was lead by Félix-A. LeBel, and Battery Management system design was lead by Pascal Messier. Since then design has evolved and matured through various adaptations to other types of vehicles (Formula SAE, Electric Three wheeler,...). This design made of 18650 cyclindral cells is perfect for student projects, low volume prototypes, DIY projects or research. 
 
