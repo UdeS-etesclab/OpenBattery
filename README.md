@@ -5,11 +5,6 @@ University of Sherbrooke has been working on Lithium-ion batteries since 2008 th
 We intent to provide here a modular mechanical structure for a rapid-prototyping and an integrated Battery Management System (BMS) for some specfic cells configuration <b>(available soon)<b> 
 
 <b> Always be carefull with lithium-ion. Bare lithium-ion cells should be handled with great care. We do not guarantee success in your application. <b>
-
-# License
-This work is shared under the License Creative Common Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Please share your work and contribute to OpenBattery Project
-
- <img src="by-sa.png" alt="By-Sa" class="center">
  
 # Acknowledgment of sponsors
 <b>(available soon)<b> 
@@ -62,5 +57,13 @@ William Bourque
  
 # List of publications
 
-<b>(available soon)<b> 
+<b>(available soon)<b>  
 
+# License
+This work is shared under the License Creative Common Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Please share your work and contribute to OpenBattery Project.
+
+ <img src="by-sa.png" alt="By-Sa" class="center">
+ 
+# Graphic identification 
+The following logo must be used to identify the project in publications. Prototypes or vehicules powered by a lithium-ion battery system made of OpenBattery modules must bare the following logo.
+  <img src="OpenBattery.png" alt="By-Sa" class="center">
