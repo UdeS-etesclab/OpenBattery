@@ -66,6 +66,6 @@ This work is shared under the License Creative Common Attribution-ShareAlike 4.0
 
  <img src="by-sa.png" alt="By-Sa" class="center">
  
-/*# Graphic identification 
+<!--# Graphic identification 
 The following logo must be used to identify the project in publications. Prototypes or vehicules powered by a lithium-ion battery system made of OpenBattery modules must bare the following logo.
-  <img src="OpenBattery.png" alt="By-Sa" class="center">*/
+  <img src="OpenBattery.png" alt="By-Sa" class="center">-->
