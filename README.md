@@ -14,38 +14,40 @@ We intent to provide here a modular mechanical structure for a rapid-prototyping
 Here is a list of contributors  who have been involved in the design, modification, fabrication or support of this project, before it was known as OpenBattery.
 
 
-Alexis Bélanger
-Alexandre Hétu
-Albert Bourassa
-Alexandre Joly
-Alexandre Tessier
-Antoine Vachon
-Benjamin Bédard
-Claude-Samuel Chrétien
-Donovan Martin
-Étienne Savard
-Guillaume Auclair
-Jerémie Pelletier
-Jonathan Labbé
-Julien Bourassa
-Justin Trachy-Cloutier
-Kaële Montplaisir
-Louis Pelletier
-Michel Tulane
-Maxime Brodeur
-Marc-Olivier Lemieux
-Nicholas Turcotte
-Olivier Lecompte
-Pier-Geoffrey Boucher
-Pier-Luc Morissette
-Rémy Martin
-Renaud Bourassa
-Samuel Lavoie-April
-Simon Lavigne
-Valérie Arsenault
-Victor Bruscianu
-William Brodeur
-William Bourque
+Alexis Bélanger,
+Alexandre Hétu,
+Albert Bourassa,
+Alexandre Joly,
+Alexandre Tessier,
+Antoine Vachon,
+Benjamin Bédard,
+Bruno Martin,
+Claude-Samuel Chrétien,
+Donovan Martin,
+Étienne Savard,
+Guillaume Auclair,
+Jerémie Pelletier,
+Jonathan Labbé,
+Julien Bourassa,
+Justin Trachy-Cloutier,
+Kaële Montplaisir,
+Louis Pelletier,
+Michel Tulane,
+Maxime Brodeur,
+Marc-Olivier Lemieux,
+Nicholas Turcotte,
+Olivier Lecompte,
+Patrice Buteau,
+Pier-Geoffrey Boucher,
+Pier-Luc Morissette,
+Rémy Martin,
+Renaud Bourassa,
+Samuel Lavoie-April,
+Simon Lavigne,
+Valérie Arsenault,
+Victor Bruscianu,
+William Brodeur,
+William Bourque,
 
 # The Battery Module
 
